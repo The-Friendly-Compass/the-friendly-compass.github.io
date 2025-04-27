@@ -83970,7 +83970,7 @@ O(a){var s,r=null,q=A.a_5(B.fr,B.Uc),p=A.b([B.kv,B.Ui,B.Pv],t.D),o=this.e
 if(o!=null)p.push(new A.cj(B.E6,A.dD(o,r,r,r,B.Tc,r,r),r))
 o=this.d
 s=o?r:this.gaji()
-o=o?B.Pu:A.a7m("assets/google_logo.png",18,r)
+o=o?B.Pu:A.a7m("google_logo.png",18,r)
 p.push(A.axg(o,B.U8,s,A.a3n(r,r,B.k,r,r,r,r,r,r,B.F,r,r,B.E7,r,r,B.Av,r,r,r,r)))
 p.push(B.kv)
 p.push(A.ajk(B.Ud,new A.aqg(a),r))
