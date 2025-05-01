@@ -89458,13 +89458,13 @@ A.GL.prototype={
 qN(){var s=0,r=A.v(t.H),q=this
 var $async$qN=A.q(function(a,b){if(a===1)return A.r(b,r)
 while(true)switch(s){case 0:s=2
-return A.B(A.za(B.lQ,"marker_pending.png"),$async$qN)
+return A.B(A.za(B.lQ,"assets/marker_pending.png"),$async$qN)
 case 2:q.fr=b
 s=3
-return A.B(A.za(B.lQ,"marker_approved.png"),$async$qN)
+return A.B(A.za(B.lQ,"assets/marker_approved.png"),$async$qN)
 case 3:q.fx=b
 s=4
-return A.B(A.za(B.lQ,"marker_draft.png"),$async$qN)
+return A.B(A.za(B.lQ,"assets/marker_draft.png"),$async$qN)
 case 4:q.fy=b
 q.a0(new A.auP())
 return A.t(null,r)}})
