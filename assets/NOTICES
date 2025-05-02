@@ -5586,6 +5586,7 @@ url_launcher_ios
 url_launcher_linux
 url_launcher_macos
 url_launcher_platform_interface
+url_launcher_windows
 xdg_directories
 
 Copyright 2013 The Flutter Authors. All rights reserved.
@@ -8252,6 +8253,7 @@ flutter_google_places_sdk_http
 flutter_google_places_sdk_ios
 flutter_google_places_sdk_linux
 flutter_google_places_sdk_macos
+flutter_google_places_sdk_windows
 
 Copyright 2023 Matan Shukry. All rights reserved
 
